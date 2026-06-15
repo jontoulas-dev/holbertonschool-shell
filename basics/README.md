@@ -1,0 +1,1 @@
+Ce fichier README.md est situé au coeur du projet avec le fichier de l'exercice en cours.
